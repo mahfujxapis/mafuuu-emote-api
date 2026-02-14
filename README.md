@@ -1,0 +1,1 @@
+# mafuuu-emote-api
